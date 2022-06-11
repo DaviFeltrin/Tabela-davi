@@ -1,0 +1,49 @@
+
+
+body {
+    width: 600px;
+    max-width: 100%;
+    margin-top: 0;      /*para cima*/
+    margin-bottom: 0;   /*para baixo*/
+    margin-left: auto;  /*esquerda*/
+    margin-right: auto;
+}
+
+
+table {
+
+    width: 600px;
+    border-collapse: collapse
+
+}
+
+
+td {
+
+    border: 2px solid black;
+    padding: 10px;
+}
+
+td.ver {
+
+    background-color: green;
+    text-align: center;
+}
+
+div.centralizado {
+    text-align: center;
+}
+
+td.ama {
+    background-color: yellow;
+}
+
+td.red {
+    background-color: red;
+}
+
+p.font {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2em;
+}
+
